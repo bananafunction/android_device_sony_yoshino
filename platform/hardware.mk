@@ -46,3 +46,7 @@ PRODUCT_PACKAGES += \
 # COVER
 PRODUCT_PACKAGES += \
     FlipFlap
+
+# Remove unwanted packages
+PRODUCT_PACKAGES += \
+    RemovePackages
